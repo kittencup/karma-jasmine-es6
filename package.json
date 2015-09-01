@@ -5,18 +5,13 @@
   "author": "kittencup",
   "license": "MIT",
   "dependencies": {
-    
+
   },
   "devDependencies": {
-    "babel-core": "^5.8.23",
-    "babel-loader": "^5.3.2",
-    "jasmine": "^2.3.2",
-    "jasmine-core": "^2.3.4",
     "karma": "^0.13.9",
     "karma-babel-preprocessor": "^5.2.2",
     "karma-chrome-launcher": "^0.2.0",
     "karma-jasmine": "^0.3.6",
-    "karma-requirejs": "^0.2.2",
-    "requirejs": "^2.1.20"
+    "karma-requirejs": "^0.2.2"
   }
 }
