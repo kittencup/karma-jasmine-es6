@@ -1,0 +1,1 @@
+# karma-jasmine-es6
