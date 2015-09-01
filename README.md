@@ -6,3 +6,4 @@ install npm dependencies
 run karma
 `karma start`
 
+[more detail](https://github.com/kittencup/karma-jasmine-es6)
